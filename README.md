@@ -1,6 +1,6 @@
 # Instance Methods Lab
 
-## Learning Goals
+## Learning Goals!!!
 
 - Define a class.
 - Build instance methods for the class.
